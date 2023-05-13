@@ -1,12 +1,12 @@
 import React from "react";
-import "./brand.css";
+import "./cta.css";
 
-const Brand = () => {
+const CTA = () => {
   return (
     <div>
-        Brand
+        CTA
     </div>
   )
 }
 
-export default Brand;
+export default CTA;
