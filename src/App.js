@@ -4,6 +4,7 @@ import React from "react";
 // Importing custom components and containers
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from "./containers";
 import { Brand, CTA, Navbar } from "./components";
+import "./App.css";
 
 // Define main application
 const App = () => {
