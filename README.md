@@ -1,5 +1,5 @@
-<h3 align="center">REACT PROJECT #1</h3>
-<h1 align="center">GPT-3 Promoter</h1>
+<h3 align="center">REACT PROJECT #1:</h3>
+<h1 align="center">🤖 <b>GPT-3 Promoter</b> 🔍</h1>
 <h4 align="center">A front-end landing page for advertising OpenAI GPT-based developer services.</h4>
 
 ## Description
