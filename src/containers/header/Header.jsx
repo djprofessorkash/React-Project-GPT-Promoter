@@ -1,8 +1,12 @@
+// General importations for React functionality
 import React from "react";
+// Local instantiation of custom styles
 import "./header.css";
+// Local instantiation of image assets
 import people from "../../assets/people.png";
 import ai from "../../assets/ai.png";
 
+// Major component for header object
 const Header = () => {
   return (
     <div className="gpt3__header section__padding" id="home">
