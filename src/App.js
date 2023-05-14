@@ -6,12 +6,12 @@ import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from "./contain
 import { Brand, CTA, Navbar } from "./components";
 import "./App.css";
 
-// Define main application
+// Define main application with relevant custom components and containers
 const App = () => {
   return (
     <div className="App">
         <div className="gradient__bg">
-            <Navbar />
+            <Navbar /> 
             <Header />
         </div>
         <Brand />
